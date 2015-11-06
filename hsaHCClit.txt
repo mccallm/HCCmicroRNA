@@ -1,0 +1,16 @@
+hsa-miR-194_st_MIN
+hsa-miR-125b-2-star_st_MIN
+hsa-miR-122_st_MIN
+hsa-miR-182_st_MIN
+hsa-miR-99a-star_st_MIN
+hsa-miR-192_st_MIN
+hsa-miR-885-5p_st_MIN
+hsa-miR-22_st_MIN
+hsa-miR-152_st_MIN
+hsa-miR-130a_st_MIN
+hsa-miR-224_st_MIN
+hsa-miR-20a-star_st_MIN
+hsa-miR-122_st_MAX
+hsa-miR-137_st_MAX
+hsa-miR-20a-star_st_MAX
+hsa-miR-365_st_MAX
